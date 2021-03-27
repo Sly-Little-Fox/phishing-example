@@ -1,2 +1,2 @@
-# phishing-example
-LOL
+# I am not Google at all...
+I am fake Google page created by Lynx.
